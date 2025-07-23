@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "08894e844c309e26",
+        "id": "d4f7164e61f47dc1",
         "type": "tabs",
         "children": [
           {
-            "id": "79a187436052ff97",
+            "id": "338c9f9140692fcd",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,15 +162,16 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "79a187436052ff97",
+  "active": "338c9f9140692fcd",
   "lastOpenFiles": [
     "エッセイ、表現の練習/慕情/深雪の温もり.md",
+    "エッセイ、表現の練習/慕情/初夏の西日.md",
     "論説/雑念/自由な世界が行き過ぎるとどうなるのか.md",
+    "Welcome.md",
+    "create a link.md",
     "論説/雑念",
     "論説.md",
     "論説",
-    "Welcome.md",
-    "エッセイ、表現の練習/慕情/初夏の西日.md",
     "エッセイ、表現の練習/慕情",
     "エッセイ、表現の練習",
     "無題のファイル.canvas",
