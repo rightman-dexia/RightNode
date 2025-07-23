@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d4f7164e61f47dc1",
+        "id": "2b14d3bccd5182c5",
         "type": "tabs",
         "children": [
           {
-            "id": "338c9f9140692fcd",
+            "id": "1c65e33bd8c36a23",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "新規タブ"
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
             }
           }
         ]
@@ -162,7 +162,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "338c9f9140692fcd",
+  "active": "1c65e33bd8c36a23",
   "lastOpenFiles": [
     "エッセイ、表現の練習/慕情/深雪の温もり.md",
     "エッセイ、表現の練習/慕情/初夏の西日.md",
