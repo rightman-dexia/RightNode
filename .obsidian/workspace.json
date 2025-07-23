@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "69ff7629f254e6f1",
+        "id": "f63fe6bcaefc69ea",
         "type": "tabs",
         "children": [
           {
-            "id": "7ba66cf9ac6aa0df",
+            "id": "69b61bacb4587631",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "icon": "lucide-file",
+              "title": "新規タブ"
             }
           }
         ]
@@ -153,6 +153,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:クイックスイッチャーを開く": false,
       "graph:グラフビューを開く": false,
       "canvas:新規キャンバスを作成": false,
@@ -163,10 +164,16 @@
   },
   "active": "0b2b596f57b4951c",
   "lastOpenFiles": [
+    "無題のフォルダ",
+    "エッセイ、表現の練習/慕情/深雪の温もり.md",
+    "論説.md",
+    "Welcome.md",
+    "エッセイ、表現の練習/慕情/初夏の西日.md",
+    "エッセイ、表現の練習/慕情",
+    "エッセイ、表現の練習",
     "無題のファイル.canvas",
     "2025-07-22.md",
     "無題のファイル 1.canvas",
-    "desktop.ini",
-    "Welcome.md"
+    "desktop.ini"
   ]
 }
