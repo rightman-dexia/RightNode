@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b14d3bccd5182c5",
+        "id": "1e66b81afd20b11e",
         "type": "tabs",
         "children": [
           {
-            "id": "1c65e33bd8c36a23",
+            "id": "8a25f54fe5d1622e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -143,13 +143,33 @@
               "icon": "lucide-list",
               "title": "アウトライン"
             }
+          },
+          {
+            "id": "8c9099b12b7413c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "c39b36ce0664073c",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +179,12 @@
       "canvas:新規キャンバスを作成": false,
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
-      "command-palette:コマンドパレットを開く": false
+      "command-palette:コマンドパレットを開く": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "1c65e33bd8c36a23",
+  "active": "c39b36ce0664073c",
   "lastOpenFiles": [
     "エッセイ、表現の練習/慕情/深雪の温もり.md",
     "エッセイ、表現の練習/慕情/初夏の西日.md",
