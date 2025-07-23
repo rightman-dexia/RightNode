@@ -11,10 +11,14 @@
             "id": "69b61bacb4587631",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "論説/雑念/自由な世界が行き過ぎるとどうなるのか.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新規タブ"
+              "title": "自由な世界が行き過ぎるとどうなるのか"
             }
           }
         ]
@@ -162,11 +166,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "0b2b596f57b4951c",
+  "active": "69b61bacb4587631",
   "lastOpenFiles": [
-    "無題のフォルダ",
-    "エッセイ、表現の練習/慕情/深雪の温もり.md",
+    "論説/雑念",
     "論説.md",
+    "論説/雑念/自由な世界が行き過ぎるとどうなるのか.md",
+    "論説",
+    "エッセイ、表現の練習/慕情/深雪の温もり.md",
     "Welcome.md",
     "エッセイ、表現の練習/慕情/初夏の西日.md",
     "エッセイ、表現の練習/慕情",
